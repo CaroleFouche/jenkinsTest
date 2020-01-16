@@ -9,7 +9,7 @@
 
 	<!-- Factorisation de la version de Spring -->
 	<properties>
-		<spring-version>4.1.9.RELEASE</spring-version> <!-- On met ce qu'on veut comme nom de balise -->
+		<spring-version>5.2.3.RELEASE</spring-version> <!-- On met ce qu'on veut comme nom de balise -->
 	</properties>
 
 
